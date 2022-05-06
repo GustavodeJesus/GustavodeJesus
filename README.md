@@ -1,4 +1,4 @@
-Hi 👋 My name is Gustavo de Jesus 
+Olá 👋 meu nome é Gustavo de Jesus 
 =================================
 
  Android developer 
