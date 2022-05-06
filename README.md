@@ -49,12 +49,36 @@ Olá 👋 meu nome é Gustavo de Jesus
       width="36" height="36" alt="Heroku" /></a> <a href="https://www.adobe.com/uk/products/xd.html" target="_blank"
     rel="noreferrer"><img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg"
-      width="36" height="36" alt="XD" /></a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img
+      width="36" height="36" alt="XD" /></a> 
+ <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+  <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg"
-      width="36" height="36" alt="Figma" /></a> 
-   <img align="center" height="36" width="36" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  <img align="center" height="36" width="36" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
-
+      width="36" height="36" alt="Figma" />
+ </a>
+ 
+ <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+  <img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg"
+      width="36" height="36" alt="Figma" />
+ </a>
+ 
+ <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+  <img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg"
+      width="36" height="36" alt="Figma" />
+ </a>
+ 
+ <a href="https://www.git.com/" target="_blank" rel="noreferrer">
+  <img
+      src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"
+      width="36" height="36" alt="Git" />
+ </a>
+ 
+ <a href="https://www.kotlin.com/" target="_blank" rel="noreferrer">
+  <img
+      src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg"
+      width="36" height="36" alt="Kotlin" />
+ </a>
 </p>
 
 ### Socials  
