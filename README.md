@@ -52,6 +52,9 @@ Olá 👋 meu nome é Gustavo de Jesus
       width="36" height="36" alt="XD" /></a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg"
       width="36" height="36" alt="Figma" /></a> 
+   <img align="center" height="36" width="36" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <img align="center" height="36" width="36" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
+
 </p>
 
 ### Socials  
