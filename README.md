@@ -4,7 +4,7 @@ Olá 👋 meu nome é Gustavo de Jesus
  Android developer 
  -----------------
  
- Atuando a mais de 5 anos no desenvolvimento mobile Android e Backend 
+ Atuando a mais de 5 anos no desenvolvimento Backend, Frontend e Mobile
  
  * 🌍  I'm based in Uberlândia MG
 
